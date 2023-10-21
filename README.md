@@ -4,7 +4,7 @@ Welcome to the GitHub repository for my web portfolio. This website is built usi
 
 ## Site Preview
 
-You can visit my portfolio directly at [https://aribroo.github.io](https://exampleportfoliolink.com).
+You can visit my portfolio directly at [https://aribroo.github.io](https://aribroo.github.io).
 
 ## How to Run Locally
 
